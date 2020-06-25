@@ -1,5 +1,5 @@
 // Add your doToElementsInArray() function here:
-function doToElementsInArray(callback, arr) {
+function doToElementsInArray(arr, callback) {
   arr.forEach(callback);
 }
 
