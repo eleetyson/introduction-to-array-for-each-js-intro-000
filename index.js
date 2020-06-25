@@ -5,5 +5,5 @@ function doToElementsInArray(callback, arr) {
 
 // Add your changeCompletely() function here:
 function changeCompletely(element, index, array) {
-  array[index] = ;
+  array[index] = 5 + index;
 }
